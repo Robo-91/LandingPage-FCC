@@ -1,0 +1,154 @@
+body {
+	background: rgb(247, 239, 215);
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;
+	margin: 150px 0 20px 0;
+	font-size: 40px;
+}
+
+form {
+	text-align: center;
+}
+
+#submit {
+	display: block;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 100px;
+	width: 130px;
+	background: yellow;
+	border: none;
+	font-family: 'Roboto Mono', monospace;
+	height: 30px;
+}
+
+#email {
+	width: 240px;
+	height: 20px;
+}
+
+.nav-link {
+	color: black;
+	text-decoration: none;
+	float: right;
+	margin-left: 5%;
+	margin-right: 35px;
+	}
+
+iframe {
+	display: block;
+	margin: auto;
+	margin-bottom: 120px;
+}
+
+#box-container {
+	margin-left: 80px;
+	margin-bottom: 100px;
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;
+}
+
+#header {
+	font-family: 'Roboto Mono', monospace;
+	height: 70px;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	background: rgb(247, 239, 215);
+	padding-top: 15px;
+	z-index: 1;
+}
+
+span {
+	font-size: 25px;
+	margin-left: 20px;
+}
+
+#price-container {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 50px;
+}
+
+.price-box {
+	width: 210px;
+	height: 230px;
+	padding: 20px;
+	margin: 10px;
+	border: 1.2px solid black;
+}
+
+button {
+	display: block;
+	margin: auto;
+	position: relative;
+	top: 45px;
+	width: 80px;
+	height: 40px;
+	background: yellow;
+	border: none;
+	font-family: 'Roboto Mono', monospace;
+	font-size: 16px;
+}
+
+.wood {
+	text-align: center;
+	position: relative;
+	bottom: 15px;
+	background: ;
+	font-family: 'Roboto Mono', monospace;
+}
+
+hr {
+	background: black;
+	position: relative;
+	bottom: 10px;
+}
+
+.price {
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: bold;
+	font-size: 28px;
+	position: relative;
+	top: 17px;
+}
+
+.fas {
+	font-size: 30px;
+	margin-left: 15px;
+}
+
+.title {
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	margin-bottom: 0;
+}
+
+#guitar-highlights {
+	display: inline-block;
+	text-align: left;
+}
+
+i {
+	display: inline;
+}
+
+footer {
+	font-family: 'Roboto Mono', monospace;
+	height: 100px;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+}
+
+footer p {
+	position: relative;
+	right: 35px;
+}
+
+
