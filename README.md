@@ -1,6 +1,6 @@
 # PROJECT NAME
 
-## Landing Page (Free Code Camp)
+## Landing Page
 https://robo-91.github.io/LandingPage-FCC/
 
 This project is part of the Free Code Camp curriculum. It was built with HTML and CSS.
@@ -34,8 +34,8 @@ To-do list:
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+> The view and navigate around the page, click the following link: https://robo-91.github.io/LandingPage-FCC/
 
 ## License
 
-This project uses the following license: [<license_name>](<link>).
+This project uses the following license: [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html).
