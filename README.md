@@ -23,14 +23,12 @@ To-do list:
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
+* Ensure that you have a text editor installed (Visual Studio Code, Sublime, etc)
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
+Open you terminal/command prompt, navigate to the director that you want to clone the respository into, and enter the following command:
 
-- All the `code` required to get started
-- Images of what it should look like
+> This command works for the terminal and Command Prompt w/git bash installed:
+> git clone https://github.com/Robo-91/LandingPage-FCC.git
 
 ## Usage
 
